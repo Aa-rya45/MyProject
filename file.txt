@@ -1,2 +1,2 @@
 hello git
-learning git pull command
+learning git pull commands
